@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Image CDN
-Plugin URI: http://thomasLoughlin.com/
+Plugin URI: http://thomasloughlin.com/cloudflare-cdn-image-hosting/
 Version: 1.0.0
 Author: Thomas Loughlin
 Author URI: http://thomasloughlin.com/
