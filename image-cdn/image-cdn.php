@@ -5,7 +5,7 @@ Plugin URI: http://thomasloughlin.com/cloudflare-cdn-image-hosting/
 Version: 1.0.0
 Author: Thomas Loughlin
 Author URI: http://thomasloughlin.com/
-Description: Version 1 finds and image and replaces it with the cdn url.
+Description: Version 1 finds an image and replaces it with the cdn url.
 */
 
 function process_content ($content)
